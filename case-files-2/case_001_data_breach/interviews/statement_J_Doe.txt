@@ -1,0 +1,15 @@
+# INTERVIEW: JOHN DOE
+**Role:** Junior Maintenance Engineer
+**Date:** February 19, 2026, 10:30 AM
+
+Q: What was your shift schedule last night?
+A: I was on the 10:00 PM to 06:00 AM shift.
+
+Q: Where were you around 03:15 AM?
+A: I was taking my lunch break in the 4th-floor cafeteria. I check in with the badge scanner there.
+
+Q: Do you use the 'maintenance_temp' login?
+A: Yes, only to check the thermostat levels in the server room and to update the cleaning logs. I never touch anything else.
+
+Q: Did you see anyone else in the building?
+A: No, the floor was quiet. I did find a small piece of paper near the server room door though. I think I left it on my desk.
