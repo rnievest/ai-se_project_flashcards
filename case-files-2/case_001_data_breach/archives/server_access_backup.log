@@ -1,0 +1,6 @@
+[2026-02-19 03:14:02] ALERT: Failed login attempt (User: root) - IP: 192.168.1.50
+[2026-02-19 03:14:05] ALERT: Failed login attempt (User: admin) - IP: 192.168.1.50
+[2026-02-19 03:14:10] ALERT: Failed login attempt (User: a_smith) - IP: 192.168.1.50
+[2026-02-19 03:14:15] CRITICAL: Successful login (User: maintenance_temp) - IP: 192.168.1.50
+[2026-02-19 03:14:18] WARNING: Unauthorized data export (File: customer_data.csv) - 2.4 GB
+[2026-02-19 03:15:00] ALERT: Session terminated unexpectedly - IP: 192.168.1.50
