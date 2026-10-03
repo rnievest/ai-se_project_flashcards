@@ -1,4 +1,0 @@
-[2026-02-19 03:14:00] ERROR: TCP SYN Flood detected from 192.168.1.50
-[2026-02-19 03:14:15] INFO: Authentication module bypass triggered. User 'maintenance_temp' logged in from 192.168.1.50
-[2026-02-19 03:14:18] ERROR: File stream 'customer_data.csv' opened for reading by 'maintenance_temp'
-[2026-02-19 03:14:55] ERROR: Connection to 192.168.1.50 timed out during file transfer.
