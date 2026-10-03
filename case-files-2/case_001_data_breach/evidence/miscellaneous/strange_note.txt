@@ -1,7 +1,0 @@
-[SCRIBBLED NOTE FOUND ON FLOOR]
-
-maintenance_temp
-192.168.1.50
-G-T-2026!
-
-"Don't forget to wipe the logs!"

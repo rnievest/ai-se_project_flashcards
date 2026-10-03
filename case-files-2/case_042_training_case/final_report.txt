@@ -1,5 +1,0 @@
-# Final Case Report: Case 042
-Status: IN PROGRESS
-
-Preliminary findings suggest a targeted breach of the main server. 
-See the evidence folder for more details.
